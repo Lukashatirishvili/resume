@@ -13,3 +13,4 @@
   - **Algorithms:** Binary Search, Bubble Sort
   - **Tools:** Git, 
   - **DevTools:** HTTP, Postman, Swagger, JSON, XML, VS code
+  - **Problem Solving:** [Codeforces](https://codeforces.com/profile/Lukashatirishvili), [Aiasoft](https://www.aiasoft.ge/profile/Lukashatirishvili)
