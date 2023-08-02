@@ -14,3 +14,11 @@
   - **Tools:** Git, 
   - **DevTools:** HTTP, Postman, Swagger, JSON, XML, VS code
   - **Problem Solving:** [Codeforces](https://codeforces.com/profile/Lukashatirishvili), [Aiasoft](https://www.aiasoft.ge/profile/Lukashatirishvili)
+
+
+#### Favorite Books & Tutorials
+
+* [Grokking Algorithms](https://rb.gy/rtpie) - by Aditya Y. Bhargava
+* [JavaScript: The Definitive Guide](https://rb.gy/83eho) - by David Flanagam
+* [Malkhaz Jinjikhadze](https://rb.gy/xotpz)
+* [Zaza Gamezardashvili](https://rb.gy/czk9q)
