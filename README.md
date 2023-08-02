@@ -4,7 +4,7 @@
 
 *Georgia / Tbilisi / Tel: +995 598 15 78 50* <br/> 
 **Experience: 1 year** <br/>
-**Work Experience:** 
+**Work Experience:** <br/>
 [Email](mailto:Lukkashatirishvili@gmail.com), [Github](https://github.com/Lukashatirishvili), [LinkedIn](https://www.linkedin.com/in/luka-shatirishvili-a5861a223/)
 
 #### Sofrware Enginering/Development/Managment Skills
