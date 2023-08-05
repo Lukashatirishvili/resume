@@ -20,6 +20,7 @@ Highly motivated Junior Web Developer with experience in HTML, CSS, JavaScript, 
     - Event Loop
     - History API
     - JQuery
+    - Classes
   - HTML / CSS
     - Layouting
     - Bootstrap
@@ -36,16 +37,7 @@ Highly motivated Junior Web Developer with experience in HTML, CSS, JavaScript, 
 
 ## 📚 Favorite Books / Tutorials / References
 
-* [Grokking Algorithms](https://rb.gy/rtpie) - by Aditya Y. Bhargava
-* [JavaScript: The Definitive Guide](https://rb.gy/83eho) - by David Flanagam
-* [Malkhaz Jinjikhadze](https://rb.gy/xotpz) - youtube.com
-* [Zaza Gamezardashvili](https://rb.gy/czk9q) - youtube.com
-
-
-
-#### Favorite Books & Tutorials
-
-* [Grokking Algorithms](https://rb.gy/rtpie) - by Aditya Y. Bhargava
-* [JavaScript: The Definitive Guide](https://rb.gy/83eho) - by David Flanagam
-* [Malkhaz Jinjikhadze](https://rb.gy/xotpz)
-* [Zaza Gamezardashvili](https://rb.gy/czk9q)
+* [Grokking Algorithms](https://g.co/kgs/8Xn1b4) - by Aditya Y. Bhargava
+* [JavaScript: The Definitive Guide](https://g.co/kgs/Mj7qkx) - by David Flanagam
+* [Malkhaz Jinjikhadze](https://www.youtube.com/playlist?list=PL2XGvKfYRbDvWZ2YNf-dVHp5Ak3EXAxd8) - youtube.com
+* [Zaza Gamezardashvili / C++](https://www.youtube.com/playlist?list=PLJTvi6Vq8-z8GgVyxJq7dTnuFxSFPYVcJ) - youtube.com
