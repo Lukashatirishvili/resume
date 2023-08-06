@@ -10,7 +10,7 @@ lukkashatirishvili@gmail.com <br/>
 
 Highly motivated Junior Web Developer with experience in HTML, CSS, JavaScript, and Node.js. Seeking to join a dynamic team where I can utilize my skills to help drive the success of the organization.
 
-## 💻 Knowladge & Skills
+## 💻 Knowledge & Skills
 
 ### **FrontEnd:** 
   - JavaScript 
@@ -20,7 +20,6 @@ Highly motivated Junior Web Developer with experience in HTML, CSS, JavaScript, 
     - Event Loop
     - History API
     - JQuery
-    - Classes
   - HTML / CSS
     - Layouting
     - Bootstrap
