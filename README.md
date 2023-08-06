@@ -41,3 +41,5 @@ Highly motivated Junior Web Developer with experience in HTML, CSS, JavaScript, 
 * [JavaScript: The Definitive Guide](https://g.co/kgs/Mj7qkx) - by David Flanagam
 * [Malkhaz Jinjikhadze](https://www.youtube.com/playlist?list=PL2XGvKfYRbDvWZ2YNf-dVHp5Ak3EXAxd8) - youtube.com
 * [Zaza Gamezardashvili / C++](https://www.youtube.com/playlist?list=PLJTvi6Vq8-z8GgVyxJq7dTnuFxSFPYVcJ) - youtube.com
+* [The Modern JavaScript Tutorial](https://javascript.info/)
+* [W3Schools](https://www.w3schools.com/js/default.asp)
