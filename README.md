@@ -13,7 +13,12 @@ Highly motivated Junior Web Developer with experience in HTML, CSS, JavaScript, 
 ## 💻 Knowledge & Skills
 
 ### **FrontEnd:** 
-  - JavaScript 
+  - JavaScript
+    - Object
+    - Functions
+    - Classes
+    - Prototypes
+    - Promises, async/await
     - DOM, BOM 
     - Event Handling / Bubbling
     - AJAX
