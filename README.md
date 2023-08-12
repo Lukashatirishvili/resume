@@ -12,19 +12,14 @@ Highly motivated Junior Web Developer with experience in HTML, CSS, JavaScript, 
 
 ## 💻 Knowledge & Skills
 
-### **FrontEnd:** 
+### **Front-End:** 
   - JavaScript
-    - Object
-    - Functions
-    - Classes
-    - Prototypes
+    - Object, Functions, Classes
     - Promises, async/await
     - DOM, BOM 
-    - Event Handling / Bubbling
-    - AJAX
+    - Event Handling, Bubbling
     - Event Loop
-    - History API
-    - JQuery
+    - AJAX, JQuery
   - HTML / CSS
     - Layouting
     - Bootstrap
@@ -33,7 +28,11 @@ Highly motivated Junior Web Developer with experience in HTML, CSS, JavaScript, 
 ### **Algorithms:**
   - Binary Search
   - Bubble Sort
-### **DevTools:** Git, Postman, Swagger,  VS Code
+### **DevTools:**
+  -  Git
+  -  Postman
+  -  Swagger
+  -  VS code
 ### **Problem Solving:** 
   - [Codeforces Profile](https://codeforces.com/profile/Lukashatirishvili)
   - [Aiasoft Profile](https://www.aiasoft.ge/profile/Lukashatirishvili)
