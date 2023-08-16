@@ -26,8 +26,8 @@ Highly motivated Junior Web Developer with experience in HTML, CSS, JavaScript, 
   - Other 
     - HTTP, JSON, XML, CSV
 ### **Algorithms:**
-  - Binary Search
-  - Bubble Sort
+  - Searching algorithms
+  - Sorting algorithms
 ### **DevTools:**
   -  Git
   -  Postman
