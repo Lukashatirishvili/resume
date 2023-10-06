@@ -8,7 +8,7 @@ lukkashatirishvili@gmail.com <br/>
 **Education: 1+ year** <br/>
 [Github](https://github.com/Lukashatirishvili), [LinkedIn](https://www.linkedin.com/in/luka-shatirishvili-a5861a223/), [Stackoverflow](https://stackoverflow.com/users/21602692/luka-shatirishvili)
 
-Highly motivated Junior Web Developer with experience in HTML, CSS, JavaScript, and Node.js. Seeking to join a dynamic team where I can utilize my skills to help drive the success of the organization.
+Highly motivated Junior Web Developer with experience in HTML, CSS and JavaScript. Seeking to join a dynamic team where I can utilize my skills to help drive the success of the organization.
 
 ## 💻 Knowledge & Skills
 
