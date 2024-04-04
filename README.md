@@ -4,7 +4,7 @@
 
 *Georgia / Tbilisi / Tel: +995 598 15 78 50* <br/> 
 lukkashatirishvili@gmail.com <br/> 
-**Work Experience: 1 month** <br/>
+**Work Experience: None** <br/>
 **Education: 1+ year** <br/>
 [Github](https://github.com/Lukashatirishvili), [LinkedIn](https://www.linkedin.com/in/luka-shatirishvili-a5861a223/), [Stackoverflow](https://stackoverflow.com/users/21602692/luka-shatirishvili)
 
@@ -24,13 +24,16 @@ Highly motivated Junior Web Developer with a solid foundation in HTML, CSS, Java
     - React component lifecycle
     - JSX (JavaScript XML) syntax
     - State and props management
-    - React Hooks (useState, useEffect, etc.)
+    - React Hooks (useState, useReducer, useEffect, etc.)
+    - Context API
+    - Redux & Redux toolkit
+    - React router
   - HTML / CSS
-    - HTML5 features and elements
+    - HTML features and elements
     - Forms and input validation
-    - CSS3 features and properties
+    - CSS features and properties
     - Flexbox and Grid layout systems
-    - CSS frameworks (e.g. Bootstrap)
+    - Tailwind CSS
   - Other 
     - HTTP, JSON, XML, CSV
 ### **Algorithms:**
@@ -45,6 +48,11 @@ Highly motivated Junior Web Developer with a solid foundation in HTML, CSS, Java
   - [Codeforces Profile](https://codeforces.com/profile/Lukashatirishvili)
   - [Aiasoft Profile](https://www.aiasoft.ge/profile/Lukashatirishvili)
 
+## 🚀 Project Showcase
+
+1. **📋 Todolist:** My debut project, where I've applied my knowledge of front-end development to create a user-friendly task management application. Check it out [here](https://todolist-app-two-rust.vercel.app/)!
+
+2. **🍿 usePopcorn:** Another exciting project of mine, usePopcorn allows you to search for your favorite movies and create your personalized watchlist. Check it out [here](https://usepopcorn-app-five.vercel.app/)!
 
 ## 📚 Favorite Books / Tutorials / References
 
