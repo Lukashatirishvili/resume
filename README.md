@@ -54,6 +54,8 @@ Highly motivated Junior Web Developer with a solid foundation in HTML, CSS, Java
 
 2. **🍿 usePopcorn:** Another exciting project of mine, usePopcorn allows you to search for your favorite movies and create your personalized watchlist. Check it out [here](https://usepopcorn-app-five.vercel.app/)!
 
+3. **🍕 Pizza App:** A ReactJS project showcasing proficiency in front-end development. I used React Router, Tailwind CSS and RTK for efficient state management. Check it out [here](https://orderpizza-app.vercel.app/)!
+
 ## 📚 Favorite Books / Tutorials / References
 
 * [Grokking Algorithms](https://g.co/kgs/8Xn1b4) - by Aditya Y. Bhargava
