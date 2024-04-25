@@ -22,18 +22,18 @@ Highly motivated Junior Web Developer with a solid foundation in HTML, CSS, Java
     - AJAX and Fetch API
   - React.js
     - React component lifecycle
-    - JSX (JavaScript XML) syntax
     - State and props management
     - React Hooks (useState, useReducer, useEffect, etc.)
     - Context API
     - Redux & Redux toolkit
     - React router
+    - React query
   - HTML / CSS
-    - HTML features and elements
     - Forms and input validation
-    - CSS features and properties
     - Flexbox and Grid layout systems
+    - Responsive Web Design
     - Tailwind CSS
+    - Bootstrap
   - Other 
     - HTTP, JSON, XML, CSV
 ### **Algorithms:**
