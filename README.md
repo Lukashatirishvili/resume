@@ -8,7 +8,7 @@ lukkashatirishvili@gmail.com <br/>
 **Education: 1+ year** <br/>
 [Github](https://github.com/Lukashatirishvili), [LinkedIn](https://www.linkedin.com/in/luka-shatirishvili-a5861a223/), [Stackoverflow](https://stackoverflow.com/users/21602692/luka-shatirishvili)
 
-Highly motivated Junior Web Developer with a solid foundation in HTML, CSS, JavaScript and React js. Seeking to join a dynamic team where I can utilize my skills to help drive the success of the organization.
+Highly motivated Junior Web Developer with a solid foundation in HTML, CSS, JavaScript and React js. <br/> Seeking to join a dynamic team where I can utilize my skills to help drive the success of the organization.
 
 ## 💻 Knowledge & Skills
 
@@ -50,11 +50,11 @@ Highly motivated Junior Web Developer with a solid foundation in HTML, CSS, Java
 
 ## 🚀 Project Showcase
 
-1. **📋 Todolist:** My debut project, where I've applied my knowledge of front-end development to create a user-friendly task management application. Check it out [here](https://todolist-app-two-rust.vercel.app/)!
+1. **📋 Todolist:** My debut project, where I've applied my knowledge of front-end development <br/> to create a user-friendly task management application. Check it out [here](https://todolist-app-two-rust.vercel.app/)!
 
-2. **🍿 usePopcorn:** Another exciting project of mine, usePopcorn allows you to search for your favorite movies and create your personalized watchlist. Check it out [here](https://usepopcorn-app-five.vercel.app/)!
+2. **🍿 usePopcorn:** Another exciting project of mine, usePopcorn allows you to search for your <br/> favorite movies and create your personalized watchlist. Check it out [here](https://usepopcorn-app-five.vercel.app/)!
 
-3. **🍕 Pizza App:** A ReactJS project showcasing proficiency in front-end development. I used React Router, Tailwind CSS and RTK for efficient state management. Check it out [here](https://orderpizza-app.vercel.app/)!
+3. **🍕 Pizza App:** A ReactJS project showcasing proficiency in front-end development. <br/> I used React Router, Tailwind CSS and RTK for efficient state management. Check it out [here](https://orderpizza-app.vercel.app/)!
 
 ## 📚 Favorite Books / Tutorials / References
 
