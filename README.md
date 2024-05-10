@@ -5,48 +5,48 @@
 *Georgia / Tbilisi / Tel: +995 598 15 78 50* <br/> 
 lukkashatirishvili@gmail.com <br/> 
 **Work Experience: None** <br/>
-**Education: 1+ year** <br/>
+**Education: Bachelor Student in Business Administration and Computer Science** <br/>
 [Github](https://github.com/Lukashatirishvili), [LinkedIn](https://www.linkedin.com/in/luka-shatirishvili-a5861a223/), [Stackoverflow](https://stackoverflow.com/users/21602692/luka-shatirishvili)
 
-Highly motivated Junior Web Developer with a solid foundation in HTML, CSS, JavaScript and React js. <br/> Seeking to join a dynamic team where I can utilize my skills to help drive the success of the organization.
+Highly motivated Junior Front-End Developer with a strong foundation in HTML, CSS, JavaScript, and React. <br> Eager to join a dynamic team where I can utilize my skills to help propel the organization towards success
 
 ## 💻 Knowledge & Skills
+  ### **JavaScript**
+  -  Core JavaScript concepts (data types, loops, conditionals, functions, etc.)
+  -  Asynchronous JavaScript (Promises, Async/Await & AJAX)
+  -  DOM manipulation
+  -  Event handling
 
-### **Front-End:** 
-  - JavaScript
-    - Core JavaScript concepts (variables, data types, loops, conditionals)
-    - Functions and scope
-    - Asynchronous JavaScript (Promises, Async/Await)
-    - DOM manipulation
-    - Event handling
-    - AJAX and Fetch API
-  - React.js
-    - React component lifecycle
-    - State and props management
-    - React Hooks (useState, useReducer, useEffect, etc.)
-    - Context API
-    - Redux & Redux toolkit
-    - React router
-    - React query
-  - HTML / CSS
-    - Forms and input validation
-    - Flexbox and Grid layout systems
-    - Responsive Web Design
-    - Tailwind CSS
-    - Bootstrap
-  - Other 
-    - HTTP, JSON, XML, CSV
-### **Algorithms:**
-  - Searching algorithms
-  - Sorting algorithms
-### **DevTools:**
-  -  Git
+  ### **React**
+  -  React component lifecycle
+  -  State and props management
+  -  React Hooks (useState, useReducer, useEffect, useRef, useCallback)
+  -  Context API
+  -  Libraries: Redux & RTK, react router, react query
+    
+  ### **HTML/CSS**
+  -  Forms and input validation
+  -  Flexbox and Grid layout systems
+  -  Responsive Web Design
+  -  Frameworks: Bootstrap & Tailwind CSS
+  
+  ### **DevTools**
   -  Postman
   -  Swagger
+  -  Git
   -  VS code
-### **Problem Solving:** 
-  - [Codeforces Profile](https://codeforces.com/profile/Lukashatirishvili)
-  - [Aiasoft Profile](https://www.aiasoft.ge/profile/Lukashatirishvili)
+  
+  ### **Algorithms**
+  -  Searching algorithms (Linear search, Binary search)
+  -  Sorting algorithms (Bubble Sort, Selection Sort)
+    
+  ### **Problem Solving**
+  -  [Codeforces Profile](https://codeforces.com/profile/Lukashatirishvili)
+  -  [Aiasoft Profile](https://www.aiasoft.ge/profile/Lukashatirishvili)
+
+  ### **Other**
+  -  HTTP, JSON, XML, CSV
+  
 
 ## 🚀 Project Showcase
 
