@@ -47,6 +47,10 @@ Highly motivated Junior Front-End Developer with a strong foundation in HTML, CS
   ### **Other**
   -  HTTP, JSON, XML, CSV
   
+  ### **Languages**
+  -  English: B1 (Intermediate proficiency)
+  -  Georgian: Native proficiency
+  
 
 ## 🚀 Project Showcase
 
