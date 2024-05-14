@@ -58,6 +58,8 @@ Highly motivated Junior Front-End Developer with a strong foundation in HTML, CS
 
 4. **📸 Image Explorer:** In this project, I built the app with React, using React Router, <br /> Context API, Axios, Bootstrap, and the infinite scroll technique. Check it out [here](https://image-explorer-eight.vercel.app/)!
 
+5. **🌤️ Weather app:** In this project, I built the app with React, using React Router, <br /> Context API, React leaflet, Axios, Bootstrap. Check it out [here](https://weather-app-inky-zeta.vercel.app/)!
+
 ## 📚 Favorite Books / Tutorials / References
 
 * [The Modern JavaScript Tutorial](https://javascript.info/)
