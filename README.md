@@ -8,33 +8,32 @@ lukkashatirishvili@gmail.com <br/>
 **Education: Bachelor Student in Business Administration and Computer Science** <br/>
 [Github](https://github.com/Lukashatirishvili), [LinkedIn](https://www.linkedin.com/in/luka-shatirishvili-a5861a223/), [Stackoverflow](https://stackoverflow.com/users/21602692/luka-shatirishvili)
 
-Highly motivated Junior Front-End Developer with a strong foundation in HTML, CSS, JavaScript, and React. <br> Eager to join a dynamic team where I can utilize my skills to help propel the organization towards success
+I'm a Junior Front-End Developer looking for my first job opportunity. I have a solid understanding of HTML, CSS, JavaScript and React. Additionally, I have a strong interest in QA testing. I'm actively considering roles in both front-end development and QA testing, including opportunities for internships.
 
 ## 💻 Knowledge & Skills
   ### **JavaScript**
   -  Core JavaScript concepts (data types, loops, conditionals, functions, etc.)
   -  Asynchronous JavaScript (Promises, Async/Await & AJAX)
   -  DOM manipulation
-  -  Event handling
-
+    
   ### **React**
-  -  React component lifecycle
-  -  State and props management
+  -  React component lifecycle & State and props management
   -  React Hooks (useState, useReducer, useEffect, useRef, useCallback)
-  -  Context API
   -  Libraries: Redux & RTK, react router, react query
     
   ### **HTML/CSS**
   -  Forms and input validation
-  -  Flexbox and Grid layout systems
-  -  Responsive Web Design
+  -  Flexbox and Grid layout systems & Responsive Web Design
   -  Frameworks: Bootstrap & Tailwind CSS
+
+  ### **SQL**
+  -  DDL & DML
+  -  Data Retrieval and Filtering
+  -  Joins & Aggregate Functions
   
   ### **DevTools**
-  -  Postman
-  -  Swagger
-  -  Git
-  -  VS code
+  -  Postman, Swagger
+  -  Git, VS code
   
   ### **Algorithms**
   -  Searching algorithms (Linear search, Binary search)
@@ -42,10 +41,8 @@ Highly motivated Junior Front-End Developer with a strong foundation in HTML, CS
     
   ### **Problem Solving**
   -  [Codeforces Profile](https://codeforces.com/profile/Lukashatirishvili)
+  -  [Leetcode Profile](https://leetcode.com/u/Lukashatirishvili/)
   -  [Aiasoft Profile](https://www.aiasoft.ge/profile/Lukashatirishvili)
-
-  ### **Other**
-  -  HTTP, JSON, XML, CSV
   
   ### **Languages**
   -  English: B1 (Intermediate proficiency)
