@@ -30,7 +30,21 @@ I'm a Junior Front-End Developer looking for my first job opportunity. I have a 
   -  DDL & DML
   -  Data Retrieval and Filtering
   -  Joins & Aggregate Functions
-  
+
+  ### **Software testing**
+  -  Understanding of SDLC, STLC, Agile/Scrum
+  -  Software testing methodologies
+  -  Creating and executing test cases
+
+  ### **Problem Solving**
+  -  [Codeforces Profile](https://codeforces.com/profile/Lukashatirishvili)
+  -  [Leetcode Profile](https://leetcode.com/u/Lukashatirishvili/)
+  -  [Aiasoft Profile](https://www.aiasoft.ge/profile/Lukashatirishvili)
+
+  ### **Languages**
+  -  English: B1 (Intermediate proficiency)
+  -  Georgian: Native proficiency
+    
   ### **DevTools**
   -  Postman, Swagger
   -  Git, VS code
@@ -38,15 +52,6 @@ I'm a Junior Front-End Developer looking for my first job opportunity. I have a 
   ### **Algorithms**
   -  Searching algorithms (Linear search, Binary search)
   -  Sorting algorithms (Bubble Sort, Selection Sort)
-    
-  ### **Problem Solving**
-  -  [Codeforces Profile](https://codeforces.com/profile/Lukashatirishvili)
-  -  [Leetcode Profile](https://leetcode.com/u/Lukashatirishvili/)
-  -  [Aiasoft Profile](https://www.aiasoft.ge/profile/Lukashatirishvili)
-  
-  ### **Languages**
-  -  English: B1 (Intermediate proficiency)
-  -  Georgian: Native proficiency
   
 
 ## 🚀 Project Showcase
